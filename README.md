@@ -21,6 +21,9 @@
 ## Usage
     
 On the homepage, click on "get started" then add a title and add the text. The save button will. then show and user is able to save note.
+
+![alt-text](https://github.com/geicibarham/Note_Taker/blob/main/screenshot/Screenshot%20(64).png)
+
     
 ## Contribute
     
