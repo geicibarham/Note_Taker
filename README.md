@@ -6,7 +6,7 @@
 [![license](https://img.shields.io/badge/license-MIT-success)](https://opensource.org/licenses/MIT)
 
 
-## This application is a simple note taker/saver created with Express.js. Users can enter notes and save them for future viewing.
+### This application is a simple note taker/saver created with Express.js. Users can enter notes and save them for future viewing.
     
 ## Table Of Contents
 
