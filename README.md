@@ -21,7 +21,7 @@
 ## Usage
     
 Deployed page can be found [here](https://boiling-fortress-30387.herokuapp.com/).
-On the homepage, click on "get started" then add a title and add the text. The save button will. then show and user is able to save note.
+On the homepage, click on "get started" then add a title and add the text. The save button will then be visible and user is able to save note. Clicking on the trash icon will delete the note.
 
 ![alt-text](https://github.com/geicibarham/Note_Taker/blob/main/screenshot/Screenshot%20(64).png)
 
